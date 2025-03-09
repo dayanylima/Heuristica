@@ -26,9 +26,4 @@ Este é um script Python para resolver um Sudoku a partir de um arquivo de entra
   5 3 0 0 7 0 0 0 0 6 0 0 1 9 5 0 0 0 0 9 8 0 0 0 0 6 0 8 0 0 0 6 0 0 0 3 4 0 0 8 0 3 0 0 1 7 0 0 0 2 0 0 0 6 0
 
 ### Saída:
-O script irá imprimir a solução do Sudoku no terminal.
-"""
-
-# Salvando o conteúdo em um arquivo README.md
-with open("README.md", "w", encoding="utf-8") as f:
- f.write(readme_content)
+O script irá imprimir a solução do Sudoku no terminal e gerar um arquivo `solucao.txt`
