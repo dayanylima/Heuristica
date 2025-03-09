@@ -1,4 +1,3 @@
-readme_content = """
 # Sudoku-PTBR
 Este é um script Python para resolver um Sudoku a partir de um arquivo de entrada.
 
